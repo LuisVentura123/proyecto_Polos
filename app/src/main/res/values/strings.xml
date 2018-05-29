@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">proyecto_Polos</string>
+    <string name="et_cantidad_polos">Ingrese Cantidad Polos Pedidos</string>
+    <string name="et_nombre_empresa">Ingrese nombre Empresa</string>
+    <string name="rb_tarjeta_Credito">Tarjeta de Credito</string>
+    <string name="rb_efectivo">Efectivo</string>
+    <string name="switch_servicion_transporte">¿Desea Servicio de Transporte?</string>
+    <string name="check_fin_semana">Es fin de semana</string>
+    <string name="tv_resultado">Resultado</string>
+    <string name="spinner_talla_polo">seleccione talla polo</string>
+    <string name="ratingBar_calificacion">calificacion</string>
+
+    <string name="btn_calcular">Calcular</string>
+    <string name="btn_atras">Atras</string>
+
+    <string name="tv_precio">Precio</string>
+    <string name="im_descripcion">descripcion</string>
+    <string name="tv_Hola">Bienvenido a Gson</string>
+    <string name="btn_Gson">Ir a Gson</string>
+    <string name="im_detalle">detalle</string>
+
+
+
+    <string name="btn_Siguiente_Activity">Ver Imagenes</string>
+
+
+</resources>
